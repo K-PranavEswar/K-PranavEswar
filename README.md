@@ -82,18 +82,29 @@
 </p>
 
 ---
-
 <div align="center">
-  <h2> 📊 Mission Metrics </h2>
+  <h2> 🌱 Journey & Momentum </h2>
+  <p><i>"Every line of code is a step forward. Here is a living snapshot of my daily progress, late-night commits, and continuous learning."</i></p>
 </div>
 
+<br />
+
+<h3 align="center"> 🌊 Development Heartbeat </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-PranavEswar&show_icons=true&theme=tokyonight&border_radius=20&bg_color=0f2027&title_color=00F7FF&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-PranavEswar&theme=tokyonight&border_radius=20&background=0f2027&stroke=00F7FF&fire=00F7FF" width="48%" />
+  <a href="https://github.com/K-PranavEswar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-PranavEswar&theme=tokyo-night&area=true&hide_border=true&bg_color=0f2027" width="95%" alt="Pranav's Activity Graph" />
+  </a>
 </p>
 
+<h3 align="center"> ⚡ The Impact & The Streak </h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-PranavEswar&theme=tokyo-night&area=true&hide_border=true&bg_color=0f2027" width="90%" />
+  <a href="https://github.com/K-PranavEswar">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-PranavEswar&show_icons=true&theme=tokyonight&border_radius=20&bg_color=0f2027&title_color=00F7FF&text_color=ffffff" width="47%" alt="Pranav's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/K-PranavEswar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-PranavEswar&theme=tokyonight&border_radius=20&background=0f2027&stroke=00F7FF&fire=00F7FF" width="47%" alt="Pranav's Commit Streak" />
+  </a>
 </p>
 
 ---
